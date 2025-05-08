@@ -62,7 +62,7 @@ This project is a SwiftUI-based iOS application that uses AI to analyze images o
 6. If an error occurs (e.g., no teeth detected), an alert will guide you to try again.
 
 
-🖼️ Screenshots
+🎥 Preview
 ---------
 <p align="left">
   <img src="Video/sampleVideo.gif" width="30%" />
